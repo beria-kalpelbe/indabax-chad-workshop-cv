@@ -8,20 +8,20 @@ Vision Artificielle Pour la Préservation de la Faune
   </tr>
 </table>
 
-Ce projet se compose de deux ateliers sur la vision artificielle pour la préservation de la faune. Chaque atelier se concentre sur une technique d’intelligence artificielle appliquée à la conservation, abordant des méthodes basées sur la vision par ordinateur et l'analyse de signaux audio pour analyser les comportements et populations d'animaux dans leur environnement naturel.
+Ce projet se compose de deux parties sur la vision artificielle pour la préservation de la faune. Chaque partie se concentre sur une technique d’intelligence artificielle appliquée à la conservation, abordant des méthodes basées sur la vision par ordinateur et l'analyse de signaux audio pour analyser les comportements et populations d'animaux dans leur environnement naturel.
 
 | Atelier                | Description                                                                                               |  Notebooks                                                                                         |
 |------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | **Partie 1**         | **Utilisation de la vision par ordinateur pour compter les éléphants dans un parc** <br> Ce notebook montre comment utiliser des images aériennes et des modèles de vision par ordinateur pour détecter et compter les éléphants, facilitant ainsi la surveillance de leur population et aidant à la préservation de l'espèce. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yqSH0B4uplpSsqV8i7kgqeeplYmoVmxk) |
-| **Atelier 2**         | **Analyse des vocalisations animales dans un parc** <br> Dans ce notebook, des enregistrements de vocalisations animales sont analysés afin d'identifier les espèces présentes et d’étudier leur comportement, notamment pour surveiller la biodiversité. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Sbw2hqk2Qk8YonsOJP3HgJN84cH4qXWa) |
+| **Partie 2**         | **Analyse des vocalisations animales dans un parc** <br> Dans ce notebook, des enregistrements de vocalisations animales sont analysés afin d'identifier les espèces présentes et d’étudier leur comportement, notamment pour surveiller la biodiversité. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Sbw2hqk2Qk8YonsOJP3HgJN84cH4qXWa) |
 
 ## Instructions pour l'utilisation
 1. **Accéder aux Notebooks** : Cliquez sur les liens dans le tableau pour ouvrir chaque notebook sur Google Colab.
 2. **Prérequis** : Assurez-vous d’avoir un accès à Google Colab et à un compte Google Drive pour sauvegarder les travaux.
 3. **Suivre les Instructions** : Chaque notebook contient des instructions étape par étape pour exécuter le code et interpréter les résultats.
 
-## Objectifs des ateliers
+## Objectifs de l'atelier
 - **Partie 1** : Explorer la vision par ordinateur pour le comptage automatique d’éléphants via des images aériennes.
 - **Partie 2** : Analyser les vocalisations des animaux pour la surveillance acoustique de la faune.
 
-Ces ateliers sont conçus pour aider à appliquer des techniques d’intelligence artificielle à des problèmes de conservation écologique, offrant ainsi des solutions technologiques aux défis de la préservation de la biodiversité.
+Cet atelier est conçu pour aider à appliquer des techniques d’intelligence artificielle à des problèmes de conservation écologique, offrant ainsi des solutions technologiques aux défis de la préservation de la biodiversité.
