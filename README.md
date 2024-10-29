@@ -3,8 +3,8 @@ Vision Artificielle Pour la Préservation de la Faune
 
 <table>
   <tr>
-    <td><img src="https://skyfi.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Ftxzhex5a1q7n%2F45LOQJJjpfTRMVnYfoo99R%2Ff3869c4002871316ae64613c9f1d1a64%2FCounting_elephants.jpg&w=3840&q=75" alt="Description Image 1" width="400"/></td>
-    <td><img src="https://ars.els-cdn.com/content/image/3-s2.0-B9780128151600000207-f10-02-9780128151600.jpg" alt="Description Image 2" width="300"/></td>
+    <td><img src="https://skyfi.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Ftxzhex5a1q7n%2F45LOQJJjpfTRMVnYfoo99R%2Ff3869c4002871316ae64613c9f1d1a64%2FCounting_elephants.jpg&w=3840&q=75" alt="Description Image 1" width="450"/></td>
+    <td><img src="https://ars.els-cdn.com/content/image/3-s2.0-B9780128151600000207-f10-02-9780128151600.jpg" alt="Description Image 2" width="350"/></td>
   </tr>
 </table>
 
